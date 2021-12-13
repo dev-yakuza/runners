@@ -3,7 +3,7 @@
   "private": true,
   "repository": "github:sider/runners",
   "engines": {
-    "node": "14",
-    "npm": "7"
+    "node": "16",
+    "npm": "8"
   }
 }
