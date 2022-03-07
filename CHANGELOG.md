@@ -10,6 +10,7 @@ Updated tools:
 
 - **Checkstyle** 9.2.1 -> 10.0 [#2922](https://github.com/sider/runners/pull/2922) [#2971](https://github.com/sider/runners/pull/2971)
 - **CoffeeLint** 5.2.3 to 5.2.4 [#2924](https://github.com/sider/runners/pull/2924)
+- **Cppcheck** 2.6.3 -> 2.7 [#2937](https://github.com/sider/runners/pull/2937)
 - **JSHint** 2.13.3 -> 2.13.4 [#2915](https://github.com/sider/runners/pull/2915)
 - **RuboCop** 1.21.0 -> 1.25.1 [#2928](https://github.com/sider/runners/pull/2928)
 - **SwiftLint** 0.46.2 -> 0.46.3 [#2949](https://github.com/sider/runners/pull/2949)
