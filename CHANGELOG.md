@@ -12,6 +12,7 @@ Updated tools:
 - **CoffeeLint** 5.2.3 to 5.2.4 [#2924](https://github.com/sider/runners/pull/2924)
 - **cpplint** 1.5.6 -> 1.6.0 [#2943](https://github.com/sider/runners/pull/2943)
 - **JSHint** 2.13.3 -> 2.13.4 [#2915](https://github.com/sider/runners/pull/2915)
+- **ktlint** 0.43.2 -> 0.44.0 [#2947](https://github.com/sider/runners/pull/2947)
 - **RuboCop** 1.21.0 -> 1.25.1 [#2928](https://github.com/sider/runners/pull/2928)
 - **SwiftLint** 0.46.2 -> 0.46.3 [#2949](https://github.com/sider/runners/pull/2949)
 
