@@ -3,7 +3,7 @@ FROM python:3-slim-buster AS cppcheck
 # NOTE: The reason using Python image: when setting `MATCHCOMPILER=yes`, Python is used to optimise cppcheck.
 #       See <https://github.com/danmar/cppcheck/blob/6cb8f877981a491465aba2f9ffb00d6142f6f852/readme.md#gnu-make>
 
-ARG CPPCHECK_VERSION=2.6.3
+ARG CPPCHECK_VERSION=2.7.1
 
 # NOTE: A segmentation fault occurs with the latest version of libz3.
 ARG LIBZ3_VERSION=4.4.1-1~deb10u1
