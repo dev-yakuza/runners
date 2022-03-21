@@ -11,7 +11,7 @@
     "eslint-plugin-cypress": "2.12.1",
     "eslint-plugin-flowtype": "8.0.3",
     "eslint-plugin-import": "2.25.4",
-    "eslint-plugin-jest": "26.1.1",
+    "eslint-plugin-jest": "26.1.2",
     "eslint-plugin-jsx-a11y": "6.5.1",
     "eslint-plugin-mocha": "10.0.3",
     "eslint-plugin-node": "11.1.0",
